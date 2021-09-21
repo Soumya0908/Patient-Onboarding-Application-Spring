@@ -32,9 +32,10 @@ Bootstrap
 - And book appointments to get consulted with the doctor.
 
 ## Doctor Module
-- As a doctor by using the credentials sent to the email can get logged in.
-- And update the availability of doctor so that patients can book appointments based on that.
-- And also can view the list of patients booked.
+- Doctor can login by using the credentials sent to the email by admin.
+- After loggin doctor can update the availability,so that patients can book appointments based on the availability.
+- Can view the list of patients booked.
+- And also can view personal profile of theirs if any changes required they can change except id and salary. 
   
 ## Technical Aspect
 
@@ -50,7 +51,9 @@ Bootstrap
 
 [[clickhere]](https://github.com/Soumya0908/Patient-Onboarding-Application-Angular/tree/master)
 Click here to get the angular project.
-## WorkFlow of the Patient-OnboardingApp
+
+## Usage of the Patient-OnboardingApplication
+
  - To work on this project firstly download this project by clicking on downloadzip or pull this project from github desktop.
  - If you have downloaded the project extract the project and import it in EclipseIDE.
  - Then click on existing maven project, choose the folder to be imported from downloads then next and finish.
@@ -63,7 +66,8 @@ Click here to get the angular project.
   
 ## Contributing
 
-This is a group project, our team-size is of 6-members. Each member of our team has been worked on 2-3 story-points.
+- This is a group project, our team-size is of 6-members.
+- Each member of our team has been worked on 2-3 story-points.
 
 ### My role
 - I have worked on both backend and front-end.
