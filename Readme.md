@@ -48,7 +48,7 @@ Bootstrap
 
 ## 🔗 Links
 
-[[clickhere]](https://github.com/Soumya0908/Patient-Onboarding-Project3-Angular/tree/master)
+[[clickhere]](https://github.com/Soumya0908/Patient-Onboarding-Application-Angular/tree/master)
 Click here to get the angular project.
 ## WorkFlow of the Patient-OnboardingApp
  - To work on this project firstly download this project by clicking on downloadzip or pull this project from github desktop.
