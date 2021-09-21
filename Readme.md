@@ -54,7 +54,7 @@ Click here to get the angular project.
  - To work on this project firstly download this project by clicking on downloadzip or pull this project from github desktop.
  - If you have downloaded the project extract the project and import it in EclipseIDE.
  - Then click on existing maven project, choose the folder to be imported from downloads then next and finish.
- - Make sure that you have a postgreSQL database.
+ - Make sure that you have a PostgreSQL database or if you want to work with any other dependency change the properies in application.properties file of resources.
  - If you want to know the dependencies added to the project open pom.xml file. 
  - And by clicking on the link provided, you will reach the page of angular project download that.
  - Then extract the file after extracting it, from VisualStudioCode select the folder of the project and open terminal run npm install and to start server run npm start.  
